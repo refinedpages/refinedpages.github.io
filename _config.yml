@@ -28,7 +28,6 @@ permalink: /:title/
 #   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-twitter: andatki
 linkedin: andyatkinson
 github: andyatkinson
 email: contact@refinedpages.com
@@ -39,7 +38,6 @@ authors:
     bio: Principal Consultant
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: andatki
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
